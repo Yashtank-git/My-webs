@@ -5,12 +5,14 @@ body{
     background-color: #ff4c68;
     color:#fff;
 }
+
 #features{
-    padding :5rem 0 0 5rem;
+    padding :7% 15%;
     justify-content : center;
     float : top;
+    float:bottom;
 }
-.head{
+.h1{
     font-family: "Montserrat-Black" , sans-serif;
     font-size: 3rem;
     line-height: 1.5;
@@ -23,6 +25,8 @@ body{
     height: 10%;
     width : 10%;
 } */
+
+
 /* navigation bar */
 
 .navbar-brand{
@@ -56,5 +60,18 @@ body{
     color: #ff4c68;
     font-size : 80px;
     float : top;
+    margin-bottom: 1rem;;
     
+}
+.f-b{
+    text-align: center;
+}
+h3{
+    font-family: "Montserrat-Black" , sans-serif;
+}
+p{
+    color: #8f8f8f;
+}
+i:hover{
+    color:red;
 }
